@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome, Stranger!"
+date:   2018-08-28
+categories: jekyll new-beginnings
+---
+
+Whilst navigating the turbulent waters of the internet, you happen upon an island. This island appears fresh yet unchanging, covered in a sheet of unremarkable sand. What mysteries lie within? Probably none. You move on.
+
+# In other words...
+
+This is a first post. There's really nothing of value here other than a welcome page. It may so happen that I post something of value in the near future, but don't hold your breath.
+
+Regardless, your presence is welcome!
