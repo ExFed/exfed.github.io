@@ -22,5 +22,5 @@ it's gone.
 
 So that means, as an engineer concerned with designing infrastructure, the
 highest praise I could receive is being told that my designs are invisible,
-fogotten, or otherwise taken for granted. Why did I ever choose this thankless
+forgotten, or otherwise taken for granted. Why did I ever choose this thankless
 field, again?
