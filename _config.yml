@@ -14,7 +14,8 @@ email: david.allen@columnzero.com
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://columnzero.com" # the base hostname & protocol for your site
-twitter_username: ExFed
+mastodon_username: "@ExFed@mastodon.social"
+mastodon_url: "https://mastodon.social/@ExFed"
 github_username:  ExFed
 
 # Build settings
